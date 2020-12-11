@@ -1,0 +1,44 @@
+.blackCon{
+  text-align: center;
+  background-color: #121b1b;
+  color: white;
+  padding: 50px;
+}
+.BtnClass{
+  background-color: #121b1b !important;
+  border: 1px solid !important;
+}
+.BtnClass:hover{
+  background-color: #121b1b !important;
+  border: 1px solid #fff !important;
+  color:#fff;
+}
+.marTop20{
+  margin-top: 20px !important;
+}
+.slider::-moz-range-thumb {
+  width: 25px;
+  height: 25px;
+  border-radius: 50%;
+  background: #4CAF50;
+  cursor: pointer;
+}
+.calculation{
+  text-align: center;
+    padding: 30px;
+    font-size: 20px;
+}
+input {
+  border-top-style: hidden;
+  border-right-style: hidden;
+  border-left-style: hidden;
+  border-bottom-style: groove;
+  background-color: #eee;
+}
+
+.no-outline:focus {
+  outline: none;
+}
+.width{
+  width:10%;
+}
